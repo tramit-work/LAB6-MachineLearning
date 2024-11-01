@@ -29,7 +29,7 @@
   - Sử dụng cho các bài toán phân loại nhị phân. Nó đo lường sự khác biệt giữa hai phân phối xác suất cho các lớp nhị phân.
 **VD:**
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*hC94sOK3bB4junpyRMnXwg.png" alt="Understanding Loss Functions for Classification | by Nghi Huynh | Medium" height: auto;">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*hC94sOK3bB4junpyRMnXwg.png" alt="Understanding Loss Functions for Classification | by Nghi Huynh | Medium" style="width: 80%; height: auto;">
 <p align="right">
   <em>Understanding Loss Functions for Classification | by Nghi Huynh | Medium</em>
   
