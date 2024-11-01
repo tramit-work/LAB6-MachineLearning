@@ -68,6 +68,7 @@
   <img src="https://github.com/tramit-work/LAB6-MachineLearning/blob/main/photos/pic4.png" alt="MLP" style="width: 70%; height: auto;">
 </p>
 [Nhấp vào đây để xem video đầy đủ](https://github.com/tramit-work/LAB6-MachineLearning/blob/main/photos/mlp.mp4)
+
 ## 4. Đối với các bài toán có sự so sánh
 <p align="center">
   <img src="https://github.com/tramit-work/LAB6-MachineLearning/blob/main/photos/formula.png" alt="So sánh" style="width: 70%; height: auto;">
