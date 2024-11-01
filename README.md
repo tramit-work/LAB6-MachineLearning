@@ -50,7 +50,7 @@
   - Hàm này chuyển đổi đầu vào thành giá trị trong khoảng (-1, 1). Tanh thường được sử dụng trong các lớp ẩn để cải thiện khả năng học.
 **VD:**
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*ZafDv3VUm60Eh10OeJu1vw.png" alt="Introduction to Different Activation Functions for Deep Learning | by Shruti Jadon | Medium" style="width: 70%; height: auto;">
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*ZafDv3VUm60Eh10OeJu1vw.png" alt="Introduction to Different Activation Functions for Deep Learning | by Shruti Jadon | Medium" height: auto;">
 <p align="right">
   <em>Introduction to Different Activation Functions for Deep Learning | by Shruti Jadon | Medium</em>
   
