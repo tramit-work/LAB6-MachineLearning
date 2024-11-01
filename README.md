@@ -56,9 +56,18 @@
   
 ## 3. Hiển thị kết quả lên Website - MLP
 <p align="center">
-  <img src="https://github.com/tramit-work/LAB6-MachineLearning/blob/main/photos/mlp.mov" alt="Video MLP">
+  < src="https://github.com/tramit-work/LAB6-MachineLearning/blob/main/photos/pic1.png" alt="MLP">
 </p>
-
+<p align="center">
+  < src="https://github.com/tramit-work/LAB6-MachineLearning/blob/main/photos/pic2.png" alt="MLP">
+</p>
+<p align="center">
+  < src="https://github.com/tramit-work/LAB6-MachineLearning/blob/main/photos/pic3.png" alt="MLP">
+</p>
+<p align="center">
+  < src="https://github.com/tramit-work/LAB6-MachineLearning/blob/main/photos/pic4.png" alt="MLP">
+</p>
+[Nhấp vào đây để xem video đầy đủ](https://github.com/tramit-work/LAB6-MachineLearning/blob/main/photos/mlp.mp4)
 ## 4. Đối với các bài toán có sự so sánh
 <p align="center">
   <img src="https://github.com/tramit-work/LAB6-MachineLearning/blob/main/photos/formula.png" alt="So sánh">
